@@ -1,16 +1,18 @@
-# get multiple handshake domains current data from namebase.io
+<h3>Get multiple handshake domains current data from namebase.io</h3>
 
-It's python script to get domain data from namebase.io,
-it saves output in json file, you can check custom.handshakesPassData.json for example
+<p>It's python script to get domain data from <i>namebase.io</i>,<br>
+it saves output in json file, you can check <i>custom.handshakesPassData.json</i> for example</p>
 
-In getCustom.py you can edit:
-    domains = {'c', 'com', 'mapagmataas', '🥇1', '🏴󠁧� 󠁥󠁮󠁧󠁿', 'sesdgdgfdfg', 'xn--f28h81f', 'schoolco', 'cfdgdfg'}
-to get data from domains you need
+<p>In <i>getCustom.py</i> you can edit:<br>
+<code>domains = {'c', 'com', 'mapagmataas', '🥇1', '🏴󠁧� 󠁥󠁮󠁧󠁿', 'sesdgdgfdfg', 'xn--f28h81f', 'schoolco', 'cfdgdfg'}</code><br>
+to get data from domains you need</p>
 
-or create own function to format names, like i did in getEmojis.py
+<p>or create own function to format names, like i did in <i>getEmojis.py</i></p>
 
-for it to work you need:
-    pip install namebase_marketplace
+<p>for it to work you need:<br>
+<code>pip install namebase_marketplace</code>
+</p>
 
-and for emoji:
-    pip install emoji
+<p>and for emoji:<br>
+<code>pip install emoji</code>
+</p>
