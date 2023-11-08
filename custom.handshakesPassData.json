@@ -1,0 +1,85 @@
+{
+    "OnAuction": {
+        "xn--f28h81f": {
+            "punycode": "xn--f28h81f",
+            "link": "https://www.namebase.io/domains/xn--f28h81f",
+            "data": {
+                "closeAmount": false,
+                "reserved": false,
+                "highestStakeAmount": 20000000000
+            }
+        }
+    },
+    "neverOnAuction": {
+        "sesdgdgfdfg": {
+            "punycode": "sesdgdgfdfg",
+            "link": "https://www.namebase.io/domains/sesdgdgfdfg",
+            "data": {
+                "closeAmount": false,
+                "reserved": false,
+                "highestStakeAmount": false
+            }
+        },
+        "🥇1": {
+            "punycode": "xn--1-g84s",
+            "link": "https://www.namebase.io/domains/xn--1-g84s",
+            "data": {
+                "closeAmount": false,
+                "reserved": false,
+                "highestStakeAmount": false
+            }
+        },
+        "cfdgdfg": {
+            "punycode": "cfdgdfg",
+            "link": "https://www.namebase.io/domains/cfdgdfg",
+            "data": {
+                "closeAmount": false,
+                "reserved": false,
+                "highestStakeAmount": false
+            }
+        }
+    },
+    "errorOccurred": {
+        "🏴󠁧� 󠁥󠁮󠁧󠁿": true
+    },
+    "sold": {
+        "c": {
+            "punycode": "c",
+            "link": "https://www.namebase.io/domains/c",
+            "data": {
+                "closeAmount": "55000000000",
+                "reserved": false,
+                "highestStakeAmount": false
+            }
+        },
+        "mapagmataas": {
+            "punycode": "mapagmataas",
+            "link": "https://www.namebase.io/domains/mapagmataas",
+            "data": {
+                "closeAmount": "0",
+                "reserved": false,
+                "highestStakeAmount": false
+            }
+        },
+        "schoolco": {
+            "punycode": "schoolco",
+            "link": "https://www.namebase.io/domains/schoolco",
+            "data": {
+                "closeAmount": "599000000",
+                "reserved": false,
+                "highestStakeAmount": false
+            }
+        }
+    },
+    "reserved": {
+        "com": {
+            "punycode": "com",
+            "link": "https://www.namebase.io/domains/com",
+            "data": {
+                "closeAmount": false,
+                "reserved": true,
+                "highestStakeAmount": false
+            }
+        }
+    }
+}
